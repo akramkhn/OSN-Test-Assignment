@@ -1,0 +1,2 @@
+avg bathrooms,avg bedrooms
+2.375,3.0
